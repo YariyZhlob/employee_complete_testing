@@ -1,0 +1,1 @@
+{"uuid": "841c35cb-a7db-4d7e-beac-869a35c755b3", "children": ["f3f3bee4-b481-4eae-a099-9a265a8164f8"], "befores": [{"name": "bearer_token", "status": "passed", "start": 1694466969215, "stop": 1694466969218}], "afters": [{"name": "bearer_token::0", "status": "passed", "start": 1694466969222, "stop": 1694466969222}], "start": 1694466969215, "stop": 1694466969222}

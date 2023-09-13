@@ -1,0 +1,8 @@
+pytest
+requests
+python-dotenv
+pytest-rerunfailures
+pytest-pyreport
+psycopg2-binary
+allure-pytest
+

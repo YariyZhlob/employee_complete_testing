@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="1" skipped="0" tests="1" time="0.096" timestamp="2023-09-12T22:52:54.608468" hostname="MacBook-Pro-Urij.local"><testcase classname="tests.test_employees" name="test_validate_all_employees_schema" time="0.080"><failure message="NameError: name 'ALL_EMPLOYEES_SCHEMA_PATH' is not defined">employees_endpoint = &lt;endpoints.employees.Employees object at 0x106a1b070&gt;
+
+    def test_validate_all_employees_schema(employees_endpoint):
+&gt;       employees_endpoint.validate_all_employees_schema()
+
+test_employees.py:32: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+self = &lt;endpoints.employees.Employees object at 0x106a1b070&gt;
+
+    def validate_all_employees_schema(self):
+        response = self.session.get(self.url, headers=self.headers)
+&gt;       jsonschema.validate(response.json(), json_load(ALL_EMPLOYEES_SCHEMA_PATH))
+E       NameError: name 'ALL_EMPLOYEES_SCHEMA_PATH' is not defined
+
+../endpoints/employees.py:64: NameError</failure></testcase></testsuite></testsuites>

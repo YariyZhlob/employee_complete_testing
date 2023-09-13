@@ -1,0 +1,354 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "array",
+  "items": [
+    {
+      "type": "object",
+      "properties": {
+        "employeeId": {
+          "type": "integer"
+        },
+        "name": {
+          "type": "string"
+        },
+        "organization": {
+          "type": "string"
+        },
+        "role": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "employeeId",
+        "name",
+        "organization",
+        "role"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "employeeId": {
+          "type": "integer"
+        },
+        "name": {
+          "type": "string"
+        },
+        "organization": {
+          "type": "string"
+        },
+        "role": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "employeeId",
+        "name",
+        "organization",
+        "role"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "employeeId": {
+          "type": "integer"
+        },
+        "name": {
+          "type": "string"
+        },
+        "organization": {
+          "type": "string"
+        },
+        "role": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "employeeId",
+        "name",
+        "organization",
+        "role"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "employeeId": {
+          "type": "integer"
+        },
+        "name": {
+          "type": "string"
+        },
+        "organization": {
+          "type": "string"
+        },
+        "role": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "employeeId",
+        "name",
+        "organization",
+        "role"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "employeeId": {
+          "type": "integer"
+        },
+        "name": {
+          "type": "string"
+        },
+        "organization": {
+          "type": "string"
+        },
+        "role": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "employeeId",
+        "name",
+        "organization",
+        "role"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "employeeId": {
+          "type": "integer"
+        },
+        "name": {
+          "type": "string"
+        },
+        "organization": {
+          "type": "string"
+        },
+        "role": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "employeeId",
+        "name",
+        "organization",
+        "role"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "employeeId": {
+          "type": "integer"
+        },
+        "name": {
+          "type": "string"
+        },
+        "organization": {
+          "type": "string"
+        },
+        "role": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "employeeId",
+        "name",
+        "organization",
+        "role"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "employeeId": {
+          "type": "integer"
+        },
+        "name": {
+          "type": "string"
+        },
+        "organization": {
+          "type": "string"
+        },
+        "role": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "employeeId",
+        "name",
+        "organization",
+        "role"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "employeeId": {
+          "type": "integer"
+        },
+        "name": {
+          "type": "string"
+        },
+        "organization": {
+          "type": "string"
+        },
+        "role": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "employeeId",
+        "name",
+        "organization",
+        "role"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "employeeId": {
+          "type": "integer"
+        },
+        "name": {
+          "type": "string"
+        },
+        "organization": {
+          "type": "string"
+        },
+        "role": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "employeeId",
+        "name",
+        "organization",
+        "role"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "employeeId": {
+          "type": "integer"
+        },
+        "name": {
+          "type": "string"
+        },
+        "organization": {
+          "type": "string"
+        },
+        "role": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "employeeId",
+        "name",
+        "organization",
+        "role"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "employeeId": {
+          "type": "integer"
+        },
+        "name": {
+          "type": "string"
+        },
+        "organization": {
+          "type": "string"
+        },
+        "role": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "employeeId",
+        "name",
+        "organization",
+        "role"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "employeeId": {
+          "type": "integer"
+        },
+        "name": {
+          "type": "string"
+        },
+        "organization": {
+          "type": "string"
+        },
+        "role": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "employeeId",
+        "name",
+        "organization",
+        "role"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "employeeId": {
+          "type": "integer"
+        },
+        "name": {
+          "type": "null"
+        },
+        "organization": {
+          "type": "null"
+        },
+        "role": {
+          "type": "null"
+        }
+      },
+      "required": [
+        "employeeId",
+        "name",
+        "organization",
+        "role"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "employeeId": {
+          "type": "integer"
+        },
+        "name": {
+          "type": "string"
+        },
+        "organization": {
+          "type": "string"
+        },
+        "role": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "employeeId",
+        "name",
+        "organization",
+        "role"
+      ]
+    }
+  ]
+}
+
+
+

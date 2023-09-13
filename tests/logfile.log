@@ -1,0 +1,20 @@
+09/11/2023 11: 30: 08 PM - INFO - connection to DB using following creds <connection object at 0x102cb2580; dsn: 'user=admin password=xxx dbname=postgres host=localhost port=5432', closed: 0>
+09/11/2023 11: 30: 08 PM - INFO - connection closed
+09/11/2023 11: 40: 56 PM - INFO - connection to DB using following creds <connection object at 0x1046de580; dsn: 'user=admin password=xxx dbname=postgres host=localhost port=5432', closed: 0>
+09/11/2023 11: 40: 56 PM - INFO - connection closed
+09/12/2023 12: 08: 02 AM - INFO - connection to DB using following creds <connection object at 0x105267580; dsn: 'user=admin password=xxx dbname=postgres host=localhost port=5432', closed: 0>
+09/12/2023 12: 08: 02 AM - INFO - connection closed
+09/12/2023 12: 13: 44 AM - INFO - connection to DB using following creds <connection object at 0x106f8f580; dsn: 'user=admin password=xxx dbname=postgres host=localhost port=5432', closed: 0>
+09/12/2023 12: 13: 44 AM - INFO - connection closed
+09/12/2023 12: 16: 09 AM - INFO - connection to DB using following creds <connection object at 0x10201a580; dsn: 'user=admin password=xxx dbname=postgres host=localhost port=5432', closed: 0>
+09/12/2023 12: 16: 09 AM - INFO - connection closed
+09/12/2023 12: 17: 05 AM - INFO - connection to DB using following creds <connection object at 0x106d7b580; dsn: 'user=admin password=xxx dbname=postgres host=localhost port=5432', closed: 0>
+09/12/2023 12: 17: 05 AM - INFO - connection closed
+09/12/2023 12: 17: 20 AM - INFO - connection to DB using following creds <connection object at 0x1072e6580; dsn: 'user=admin password=xxx dbname=postgres host=localhost port=5432', closed: 0>
+09/12/2023 12: 17: 20 AM - INFO - connection closed
+09/12/2023 12: 27: 44 AM - INFO - connection to DB using following creds <connection object at 0x10497f580; dsn: 'user=admin password=xxx dbname=postgres host=localhost port=5432', closed: 0>
+09/12/2023 12: 27: 44 AM - INFO - connection closed
+09/12/2023 10: 50: 16 PM - INFO - connection to DB using following creds <connection object at 0x107d7b580; dsn: 'user=admin password=xxx dbname=postgres host=localhost port=5432', closed: 0>
+09/12/2023 10: 50: 16 PM - INFO - connection closed
+09/12/2023 10: 52: 54 PM - INFO - connection to DB using following creds <connection object at 0x1063a0580; dsn: 'user=admin password=xxx dbname=postgres host=localhost port=5432', closed: 0>
+09/12/2023 10: 52: 54 PM - INFO - connection closed

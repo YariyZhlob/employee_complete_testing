@@ -1,0 +1,53 @@
+{
+    "$schema": "https://json-schema.org/draft/2019-09/schema",
+    "$id": "http://example.com/example.json",
+    "type": "object",
+    "default": {},
+    "title": "Root Schema",
+    "required": [
+        "employeeId",
+        "name",
+        "organization",
+        "role"
+    ],
+    "properties": {
+        "employeeId": {
+            "type": "integer",
+            "default": 0,
+            "title": "The employeeId Schema",
+            "examples": [
+                1
+            ]
+        },
+        "name": {
+            "type": "string",
+            "default": "",
+            "title": "The name Schema",
+            "examples": [
+                "Mikhail"
+            ]
+        },
+        "organization": {
+            "type": "string",
+            "default": "",
+            "title": "The organization Schema",
+            "examples": [
+                "Accounting"
+            ]
+        },
+        "role": {
+            "type": "string",
+            "default": "",
+            "title": "The role Schema",
+            "examples": [
+                "Economist"
+            ]
+        }
+    },
+    "examples": [{
+        "employeeId": 1,
+        "name": "Mikhail",
+        "organization": "Accounting",
+        "role": "Economist"
+    }]
+}

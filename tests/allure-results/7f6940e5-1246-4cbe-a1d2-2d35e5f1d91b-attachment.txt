@@ -1,0 +1,2 @@
+INFO     <module>:conftest.py:23 connection to DB using following creds <connection object at 0x102cb2580; dsn: 'user=admin password=xxx dbname=postgres host=localhost port=5432', closed: 0>
+INFO     <module>:conftest.py:26 connection closed
